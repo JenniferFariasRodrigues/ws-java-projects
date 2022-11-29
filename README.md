@@ -1,6 +1,6 @@
 <p align="center">
  <img src="https://qph.cf2.quoracdn.net/main-qimg-62be9fb6e1d7166e9cbeeed913096752" height="250" width="250">  </p>
- <h1 align="center">Pyyne Bank Challenge</h1>
+ <h1 align="center">Java Projects</h1>
 <p align="center">
 </p>
 Backend bank aggregation application using Java language 
@@ -16,17 +16,17 @@ Backend bank aggregation application using Java language
 ### Starting
 ```bash
 # Clone this project
-$ git clone https://github.com/JenniferFariasRodrigues/pyyne-challenge-bank.git
+$ git clone https://github.com/JenniferFariasRodrigues/ws-java-projects.git
 
 # Access on Eclipse IDE
-On the IDE Eclipse choose the option "Import projects". On the folder "General" choose "Existing Projects into workspace" and choose  pyyne-challenge-bank folder.
+On the IDE Eclipse choose the option "Import projects". On the folder "General" choose "Existing Projects into workspace" and choose  ws-java-projects folder.
 
 # Choose folder in IDE and run the project
 Click on  "main_application" folder and choose "Main.java" class.
 Click on "Run" in the Window.
 
 # Run unit tests on Eclipse IDE
-On a project folder(pyyne_bank_challenge) Click on "Run" and " Run as". 
+On a project folder Click on "Run" and " Run as". 
 Select the option "JUnit Test".
 
 ```
