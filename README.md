@@ -32,7 +32,7 @@ Select the option "JUnit Test".
 ```
 
 ---
-### Output
+### Output for composition project
 The expected unit test coverage is 98.4% and the expected project output is:
 ```bash
 
