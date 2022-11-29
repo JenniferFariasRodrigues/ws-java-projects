@@ -32,12 +32,16 @@ Select the option "JUnit Test".
 ```
 ### Composition Project
 <p align="center">
- <img src="composition/README/pics/WhatsApp Image 2022-11-28 at 18.59.01.jpeg" height="250" width="250">  </p>
+ <img src="composition/README/pics/WhatsApp Image 2022-11-28 at 18.59.01.jpeg" height="250" width="450">  </p>
+<p align="center">
+</p>
+<p align="center">
+ <img src="composition/README/pics/WhatsApp Image 2022-11-28 at 19.19.11.jpeg" height="250" width="450">  </p>
 <p align="center">
 </p>
 
 ---
-### Output for composition project
+#### Output for composition project
 The expected unit test coverage is 98.4% and the expected project output is:
 ```bash
 
