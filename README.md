@@ -30,6 +30,11 @@ On a project folder Click on "Run" and " Run as".
 Select the option "JUnit Test".
 
 ```
+### Composition Project
+<p align="center">
+ <img src="composition/README/pics/WhatsApp Image 2022-11-28 at 18.59.01.jpeg" height="250" width="250">  </p>
+<p align="center">
+</p>
 
 ---
 ### Output for composition project
