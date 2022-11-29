@@ -9,7 +9,7 @@ Backend bank aggregation application using Java language
 ### Description 
 ---
 
-
+This repository contains some projects using Java language and related.
 
 ---
 
